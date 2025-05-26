@@ -1,3 +1,4 @@
+
 const APIKey = "50b3c689";
 const searchInput = document.getElementById("searchInput");
 const searchBtn = document.getElementById("searchBtn");
